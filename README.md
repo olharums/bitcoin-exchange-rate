@@ -1,7 +1,8 @@
 ## Description
 
-The project is writteng with NestJS - NodeJS framework
-For managing sending email Nodemailer and Google OAuth2 were used.
+The project is written using NestJS - NodeJS framework.
+
+Nodemailer and Google OAuth2 were used to manage email sending.
 
 ## Installation
 
